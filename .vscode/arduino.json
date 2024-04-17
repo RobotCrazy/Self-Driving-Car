@@ -1,0 +1,6 @@
+{
+    "configuration": "cpu=atmega2560",
+    "board": "arduino:avr:mega",
+    "sketch": "Serial Communication Testing\\SerialCommunicationTesting\\SerialCommunicationTesting.ino",
+    "port": "COM8"
+}
